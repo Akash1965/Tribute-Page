@@ -1,0 +1,45 @@
+body{
+    background-color: #9DF3C4;
+    text-align: center;
+}
+img{
+    height: 30rem;
+}
+li{
+    list-style-type: "☛";
+    margin: 1em;
+    font-weight: 500;
+    font-size: 18px;
+}
+.size1{
+    padding: auto 2.5% 2.5% 2.5%;
+}
+.about{
+    margin: auto 20%;
+    background-color: #62D2A2;
+    box-shadow: 20px 20px 20px 0.05px #FBFFB1;
+    padding-bottom: 5%;
+}
+.legend{
+    color: white;
+    padding-top: 30px;
+    text-shadow: 2px 2px 8px black;
+    font-size: 3em;
+}
+.center-align{
+    text-align: left;
+}
+.center-align1{
+    font-weight: 550;
+    font-size: large;
+}
+.footer-link{
+    text-align: left;
+    margin: 2% 20%;
+}
+.apj{
+    font-family: 'Roboto';
+    font-size: 5em;
+    text-shadow: 5px 5px 10px #98DDCA;
+    margin-top: 20%;
+}
